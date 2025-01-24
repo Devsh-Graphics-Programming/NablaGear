@@ -42,7 +42,7 @@ Whether you're looking for exclusive Nabla-themed T-Shirts or other cool gear (*
 
   | **Material**        | 100% Cotton               |
   |---------------------|--------------------------|
-  | **Design**          | "Glow in the dark" logo  |
+  | **Design**          | "Glow in the Dark" logo  |
   | **Sizes Available** | XS to 6XL                |
 
   ![Price](https://img.shields.io/badge/Price-90%20PLN-brightgreen)
@@ -57,24 +57,24 @@ Whether you're looking for exclusive Nabla-themed T-Shirts or other cool gear (*
 ## 📸 **Gallery**
 
 <div align="center">
-  <h3>Nabla Glow in the dark - front</h3>
+  <h3>Nabla Glow in the Dark - front</h3>
 </div>
 <div align="center">
-    <img src="gear/t-shirts/gitd-front.png" alt="Nabla glow in the dark T-Shirt front" style="width:50%; max-width:600px; height:auto; border: 1px solid #ddd; border-radius: 8px; padding: 5px;" />
-</div>
-
-<div align="center">
-  <h3>Nabla Glow in the dark - back</h3>
-</div>
-<div align="center">
-    <img src="gear/t-shirts/gitd-back.png" alt="Nabla glow in the dark T-Shirt back" style="width:50%; max-width:600px; height:auto; border: 1px solid #ddd; border-radius: 8px; padding: 5px;" />
+    <img src="gear/t-shirts/gitd-front.png" alt="Nabla glow in the Dark T-Shirt front" style="width:50%; max-width:600px; height:auto; border: 1px solid #ddd; border-radius: 8px; padding: 5px;" />
 </div>
 
 <div align="center">
-  <h3>Nabla Glow in the dark - after irradiation</h3>
+  <h3>Nabla Glow in the Dark - back</h3>
 </div>
 <div align="center">
-    <img src="gear/t-shirts/gitd-irr.png" alt="Nabla glow in the dark T-Shirt effect" style="width:50%; max-width:600px; height:auto; border: 1px solid #ddd; border-radius: 8px; padding: 5px;" />
+    <img src="gear/t-shirts/gitd-back.png" alt="Nabla glow in the Dark T-Shirt back" style="width:50%; max-width:600px; height:auto; border: 1px solid #ddd; border-radius: 8px; padding: 5px;" />
+</div>
+
+<div align="center">
+  <h3>Nabla Glow in the Dark - after irradiation</h3>
+</div>
+<div align="center">
+    <img src="gear/t-shirts/gitd-irr.png" alt="Nabla glow in the Dark T-Shirt effect" style="width:50%; max-width:600px; height:auto; border: 1px solid #ddd; border-radius: 8px; padding: 5px;" />
 </div>
 
 ---
